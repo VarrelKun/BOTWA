@@ -13,8 +13,8 @@ global.youtube = 'https://youtube.com/c/nxvall'
 global.ownername = 'GOPALA5U'
 global.botname ='𝙁𝙐𝙕𝙀 𝙋𝘼𝙂𝙀'
 global.donasi = {
-    saweria: 'https://saweria.co/riy20',
-    nomor: '081575886399'
+    dana: '6285954184111',
+    pulsa: '085954184111'
 }
 global.packname = '𝙁𝙐𝙕𝙀 𝙋𝘼𝙂𝙀'
 global.author = 'WhatsApp Bot'
